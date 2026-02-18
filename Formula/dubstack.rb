@@ -1,8 +1,8 @@
 class Dubstack < Formula
   desc "CLI for managing stacked diffs (dependent git branches)"
   homepage "https://github.com/wiseiodev/dubstack"
-  url "https://registry.npmjs.org/dubstack/-/dubstack-0.2.0.tgz"
-  sha256 "99882dc452fc025f86c6339ae5780e8ca341af8bbb4efa96dc836bc858a1d5af"
+  url "https://registry.npmjs.org/dubstack/-/dubstack-0.3.0.tgz"
+  sha256 "142ffeb8d49deab3611793ff598edf3058996c25e6abb6481b4bf90029992df0"
   license "MIT"
 
   depends_on "node"
